@@ -1,0 +1,5 @@
+# [[Fighter]]
+# [[Priest]]
+# [[Thief]]
+# [[Wizard]]
+
