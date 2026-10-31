@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Thief.md",
+                "file": "Classes/Wizard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thief"
+              "title": "Wizard"
+            }
+          },
+          {
+            "id": "408aaf0ee0c5c93e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Attributes/Alignment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alignment"
+            }
+          },
+          {
+            "id": "5926d01b69ea87c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oracle/Prompts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prompts"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -55,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#link",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Thief.md",
+                "file": "Oracle/Prompts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,30 +217,42 @@
       "bases:Create new base": false
     }
   },
-  "active": "3c931aab1959f300",
+  "active": "5926d01b69ea87c1",
   "lastOpenFiles": [
-    "Classes/Priest.md",
-    "Classes/Wizard.md",
-    "Classes/Class.md",
-    "Classes/Fighter.md",
-    "Classes/Thief.md",
-    "Stats.md",
+    "Oracle/Oracle.md",
+    "Oracle/Prompts.md",
+    "Oracle/Dungeon Names.md",
+    "Oracle/Solo Examples.md",
+    "Attributes/Stats.md",
+    "Oracle",
+    "Attributes/Background.md",
+    "Attributes/Alignment.md",
+    "Spells/Spells.md",
+    "Attributes",
+    "Spells/Spell Attributes.md",
+    "Spells/Priest Spells.md",
+    "Spells/Casting Spells.md",
+    "Spells/Wizard Spells.md",
+    "Spells",
     "Player.md",
+    "Attributes/Languages.md",
+    "Attributes/Level.md",
+    "Gear.md",
+    "Classes/Wizard.md",
+    "Attributes/Titles.md",
+    "Attributes/Deities.md",
+    "Welcome.md",
+    "Classes/Priest.md",
+    "Classes/Thief.md",
+    "Classes/Fighter.md",
+    "Classes/Class.md",
     "Images/fighter_male.png",
     "Images/fighter_female.png",
     "Images",
     "Weapon Mastery.md",
     "Ancestry/Elf.md",
-    "Ancestry/Ancestry.md",
-    "Ancestry/Dwarf.md",
-    "Ancestry/Human.md",
-    "Ancestry/Halfling.md",
-    "Ancestry/Half-Orc.md",
-    "Ancestry/Goblin.md",
     "Ancestry",
     "Classes",
-    "Welcome.md",
-    "Untitled",
     "Monsters"
   ]
 }

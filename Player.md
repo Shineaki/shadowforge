@@ -5,12 +5,14 @@ Chose a worthy name for your adventurer.
 ### [[Ancestry]]
 
 ### [[Class]]
-### Level
+### [[Level]]
 ### XP
-### Alignment
+### [[Alignment]]
 ### Deity
+[[Deities]]
 ### Title
-### Background
+[[Titles]]
+### [[Background]]
 ### [[Stats]]
 
 ### [[Stats#Armor Class (AC)]]

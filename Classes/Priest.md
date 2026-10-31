@@ -11,7 +11,7 @@ You know Celestial, Diabolic, or Primordial.
 # Turn Undead
 tbd.
 # Deity
-Choose a god to serve who matches your alignment (LINK). You have a holy symbol for your god (it takes up no gear slots).
+Choose a god to serve who matches your alignment (#LINK). You have a holy symbol for your god (it takes up no gear slots).
 # Spellcasting
 tbd.
 # Talents

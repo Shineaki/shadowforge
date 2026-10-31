@@ -34,3 +34,5 @@ Convince creatures to e friendly, resist mental control.
 One roll of their class's hit points die + their Constitution modifier (minimum 1). 
 ## Armor Class (AC)
 AC is a type of difficulty class that shows how tough is to injure you, whether because you are agile or you wear armour. Your class determines the type of armour you can wear.
+
+Your armour class (AC) is 10 + your [[Stats#Dexterity]] modifier

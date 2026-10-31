@@ -17,8 +17,10 @@ tbd.
 | 2d6   | Effect                                                   |
 | ----- | -------------------------------------------------------- |
 | 2     | Gain advantage on initiative rolls (reroll if duplicate) |
-| 3-6   | Your [[Thief#Backstab]] deals +1 dice of damage          |
-| 7-9   | +2 to [[Stats#Strength]]                                 |
-| 10-11 |                                                          |
-| 12    |                                                          |
+| 3-5   | Your [[Thief#Backstab]] deals +1 dice of damage          |
+| 6-9   | +2 to [[Stats#Strength]]                                 |
+| 10-11 | +1 to melee and ranged attacks                           |
+| 12    | Choose a talent or +2 points to distribute to [[Stats]]  |
 # Images
+
+tbd.
